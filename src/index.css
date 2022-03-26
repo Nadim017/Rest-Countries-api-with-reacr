@@ -1,0 +1,15 @@
+li {
+  display: inline-block;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 30px;
+  background: rgb(241, 238, 238);
+  margin-right: 1px;
+}
+ul {
+  text-align: center;
+  margin-top: 40px;
+}
+ul li a {
+  text-decoration: none;
+}

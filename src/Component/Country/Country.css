@@ -1,0 +1,15 @@
+.main-area {
+  background-color: "red";
+  text-align: center;
+  color: black;
+
+  height: 330px;
+  width: 400px;
+  border: 1px solid black;
+
+  margin: 10px auto;
+  padding: 20px;
+}
+.main-area img {
+  height: 100px;
+}
